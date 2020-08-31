@@ -319,6 +319,7 @@ header .drawer-hamburger-icon::before, header .drawer-hamburger-icon::after {
 .about {
   position: relative;
   color: #fff;
+  padding-bottom:125px;
 }
 
 @media screen and (min-width: 768px) {
@@ -363,7 +364,7 @@ header .drawer-hamburger-icon::before, header .drawer-hamburger-icon::after {
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (min-width: 767px) {
   .about-message-text {
     padding-left: 40px;
     margin-top: 40px;
