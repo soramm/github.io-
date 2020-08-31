@@ -405,6 +405,7 @@ header .drawer-hamburger-icon::before, header .drawer-hamburger-icon::after {
 
 .products-item-body {
   font-size: 14px;
+  color:#333;
 }
 
 .products-item-body .products-price {
@@ -531,6 +532,7 @@ header .drawer-hamburger-icon::before, header .drawer-hamburger-icon::after {
 @media screen and (min-width: 768px) and (max-width: 767px) {
   .news-body {
     font-size: 14px;
+    color:#333;
   }
 }
 
@@ -749,6 +751,7 @@ textarea {
 
 .contact-privacy-link {
   text-decoration: underline;
+  color:#333;
 }
 
 .contact-bottom-privacy {
@@ -780,6 +783,8 @@ footer {
   margin-top: 42px;
   margin-bottom: 29px;
   padding: 0;
+  color:#333;
+  
 }
 
 .footer-item + .footer-item {
@@ -790,6 +795,7 @@ footer {
   display: flex;
   justify-content: center;
   padding: 0;
+  color:#333;
 }
 
 .footer-bottom {
